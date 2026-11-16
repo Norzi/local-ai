@@ -1,4 +1,4 @@
-# local-ai: local LLMs and image generation on one RTX 3080 (10 GB)
+# Local-AI: local LLMs and image generation on one RTX 3080 (10 GB)
 
 Notes, settings and scripts from running large language models and diffusion models entirely on my own PC: no cloud, no API, full control over the model and my data.
 
